@@ -1,4 +1,4 @@
-# Installing Demo Application and Istio Proxy Injection
+# Installing Demo Application and Istio Proxy Injection IVAN CAMARGO y Miguelangela Higuera
 
 Let's deploy our entire application.
 
